@@ -19,7 +19,7 @@ export default function FooterOne() {
                 <Image
                   width={140}
                   height={50}
-                  src="/assets/img/footer/footer-logo.svg"
+                  src="/assets/img/general/edu-givelogo.png"
                   alt="logo"
                 />
               </div>

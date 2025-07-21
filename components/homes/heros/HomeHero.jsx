@@ -37,8 +37,8 @@ const masthead_info = [
 ];
 
 const hero_content = {
-  title: "Learn New Skills Online with Top",
-  text_underline: "Educators",
+  title: "Discover new skills, guided by experts at",
+  text_underline: "EduGive",
   info_hero: (
     <>
       Build skills with courses, certificates, and degrees online from

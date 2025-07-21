@@ -21,11 +21,11 @@ export default function TestimonialsOne() {
           <div className="col-auto">
             <div className="sectionTitle ">
               <h2 className="sectionTitle__title text-green-1">
-                What People Say
+                Voices That Inspire
               </h2>
 
               <p className="sectionTitle__text text-white">
-                Lorem ipsum dolor sit amet, consectetur.
+                Real feedback, powerful impact.
               </p>
             </div>
           </div>

@@ -18,7 +18,7 @@ export default function Instructors({ backgroundColor }) {
               </h2>
 
               <p className="sectionTitle__text " data-aos="fade-left">
-                Lorem ipsum dolor sit amet, consectetur.
+                Experience. Insight. Impact. Or Educate. Empower. Elevate.
               </p>
             </div>
           </div>

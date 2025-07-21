@@ -73,7 +73,7 @@ export default function Header() {
                   <Image
                     width={140}
                     height={50}
-                    src="/assets/img/general/logo.svg"
+                    src="/assets/img/general/edu-givelogo.png"
                     alt="logo"
                   />
                 </Link>

@@ -105,8 +105,8 @@ export default function CourceCardSlider({ data, index }) {
               <div className="coursesCard-footer__price">
                 {data.paid ? (
                   <>
-                    <div>${data.originalPrice}</div>
-                    <div>${data.discountedPrice}</div>
+                    <div>£{data.originalPrice}</div>
+                    <div>£{data.discountedPrice}</div>
                   </>
                 ) : (
                   <>

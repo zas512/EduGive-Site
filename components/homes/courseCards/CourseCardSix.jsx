@@ -98,10 +98,10 @@ export default function CourseCardSix({ data, index }) {
               {data.paid ? (
                 <>
                   <div className="fw-500 mr-10 line-through text-light-1">
-                    ${data.originalPrice}
+                    £{data.originalPrice}
                   </div>
                   <div className="text-18 fw-500 text-dark-1">
-                    ${data.discountedPrice}
+                    £{data.discountedPrice}
                   </div>
                 </>
               ) : (

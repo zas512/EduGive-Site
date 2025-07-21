@@ -3,19 +3,19 @@ export const steps = [
     id: 1,
     icon: "icon-online-learning-4 text-64 text-green-1",
     title: "01. Learn",
-    text: "Lorem ipsum dolor sit amet, consectetur dolorili adipiscing elit. Felis donec massa aliqua.",
+    text: "Build practical skills through high-quality courses created to fit your schedule. Our free learning resources make education accessible to every one, everywhere.",
   },
   {
     id: 2,
     icon: "icon-graduation-1 text-64 text-green-1",
     title: "02. Graduate",
-    text: "Lorem ipsum dolor sit amet, consectetur dolorili adipiscing elit. Felis donec massa aliqua.",
+    text: "Complete your courses with confidence and earn recognized certificates. These credentials showcase your skills and open doors to new opportunities.",
   },
   {
     id: 3,
     icon: "icon-working-at-home-2 text-64 text-green-1",
     title: "03. Work",
-    text: "Lorem ipsum dolor sit amet, consectetur dolorili adipiscing elit. Felis donec massa aliqua.",
+    text: "Apply your new skills in real-world jobs and projects with ease. We support you in finding opportunities that help turn your knowledge into a rewarding career.",
   },
 ];
 

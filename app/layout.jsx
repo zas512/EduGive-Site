@@ -25,16 +25,15 @@ export default function RootLayout({ children }) {
     });
   }, []);
 
-  
-
   return (
     <html lang="en">
-      <head></head>
+      <head>
+        <title>EduGive – Free Education. Endless Possibilities or EduGive – Your Support. Their Future</title>
+      </head>
       <body>
-        {/* Wrap Context and children with SessionProvider */}
         <SessionProvider>
           <Provider store={store}>
-              <Context>{children}</Context>
+            <Context>{children}</Context>
           </Provider>
         </SessionProvider>
       </body>
